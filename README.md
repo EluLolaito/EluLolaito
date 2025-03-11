@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web-logging**
 
-- 📝 Perhaps you shall find traces of my weblogs here [blogs](elulolaito.is-a.dev/blogs)
+- 📝 Perhaps you shall find traces of my weblogs here [blogs](https://elulolaito.github.io/blogs)
 
 - 📫 How to reach me **eru.lawliet.death@gmail.com**
 
